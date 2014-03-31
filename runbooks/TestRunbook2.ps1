@@ -1,4 +1,4 @@
-workflow Testrunbook
+workflow Testrunbook2
 {    
     [string] $SampleMessage = Get-AutomationVariable -Name 'SampleMessage'
 
